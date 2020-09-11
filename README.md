@@ -1,2 +1,2 @@
 # hodophiles-gallery
-project: using html, css and java script
+project : using html, css and java script
