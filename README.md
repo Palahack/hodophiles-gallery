@@ -1,2 +1,2 @@
 # hodophiles-gallery
-travel blog website
+project: using html, css and java script
